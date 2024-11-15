@@ -116,3 +116,18 @@ C++ 拥有极高的性能潜力，但编写高效代码仍需注意多方面优�
 ## 总结
 
 C++ 项目开发流程涉及多个复杂环节，涵盖需求分析、项目设计、编码、测试、优化等方面。每个阶段均有其独特的注意事项和常见难点。只有在各个阶段都严格执行和优化，才能保证项目的质量和稳定性。
+
+
+<div id="master">
+    <a href="http://beian.miit.gov.cn/"><center>豫ICP备2022010346号</center></a>
+</div>
+
+<style type="text/css">
+  #master {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    text-align: center;
+  }
+</style>
